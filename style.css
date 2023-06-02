@@ -1,0 +1,56 @@
+body{
+    background-color: #ced4da;
+}
+.nav-bar{
+    background-color:#ECF8F9;
+    padding: 12px;
+}
+.navbar-item{
+    padding: 6px;
+    border-radius: 6px;
+}
+.nav-bar-item{
+    display: inline-block;
+}
+.nav-bar-item-logo{
+    display: inline-block; 
+}
+.nav-bar-item a:link{
+    color: black;
+    text-decoration: none;
+}
+.nav-bar-item a:visited{
+    color: black;
+    text-decoration: none;
+}
+.nav-bar-item a:hover{
+    color: black;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.nav-bar-item-logo a:link{
+    color: red;
+    text-decoration: none;
+}
+.nav-bar-item-logo a:visited{
+    color: red;
+    text-decoration: none;
+}
+.nav-bar-item-logo a:hover{
+    color: red;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.text-onclick{
+    color: rgb(34, 180, 180);
+}
+.text-onclick:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.buton{
+    background-color: rgb(92, 180, 221);
+    border-radius: 6px;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
